@@ -1,0 +1,3802 @@
+[
+    {
+        "id": 269342991,
+        "annotations": [
+            {
+                "id": 96719450,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "ch4TGqMflC",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:28:43.365970Z",
+                "updated_at": "2026-05-31T01:28:43.365987Z",
+                "draft_created_at": "2026-05-31T01:27:17.116050Z",
+                "lead_time": 99.666,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "a1adce28-78d0-4ff9-8400-741fe47bcde3",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269342991,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "This Vitamin D3+K2 is absolutely amazing! I've been taking it for 3 months and my energy levels are through the roof. Highly recommend to everyone!",
+            "category": "vitamins",
+            "review_id": "R001",
+            "product_name": "NovaVita Vitamin D3+K2"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626360Z",
+        "updated_at": "2026-05-31T01:28:43.538437Z",
+        "allow_skip": true,
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269342992,
+        "annotations": [
+            {
+                "id": 96719466,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "igdX7DhWuJ",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:29:58.870016Z",
+                "updated_at": "2026-05-31T01:29:58.870028Z",
+                "draft_created_at": null,
+                "lead_time": 66.583,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "4ecf937d-c1df-4f6c-9161-30816aae5724",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269342992,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Fast delivery from NovaVita, product arrived in perfect condition. The Omega-3 capsules have no fishy aftertaste which is rare. Will definitely reorder.",
+            "category": "vitamins",
+            "review_id": "R002",
+            "product_name": "NovaVita Omega-3"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626478Z",
+        "updated_at": "2026-05-31T01:29:59.059027Z",
+        "allow_skip": true,
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269342993,
+        "annotations": [
+            {
+                "id": 96719472,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "GzrezgV62B",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:31:42.771565Z",
+                "updated_at": "2026-05-31T01:31:42.771576Z",
+                "draft_created_at": "2026-05-31T01:30:18.386742Z",
+                "lead_time": 98.08,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "f68e316e-e04b-444d-bc27-6507bdf7a423",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269342993,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "I was skeptical at first but the Ashwagandha KSM-66 really works. My stress levels dropped significantly after 2 weeks. Game changer!",
+            "category": "herbal",
+            "review_id": "R003",
+            "product_name": "NovaVita Ashwagandha"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626519Z",
+        "updated_at": "2026-05-31T01:31:42.984019Z",
+        "allow_skip": true,
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269342994,
+        "annotations": [
+            {
+                "id": 96719473,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "zI0uFLxTTl",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:31:57.858522Z",
+                "updated_at": "2026-05-31T01:31:57.858536Z",
+                "draft_created_at": null,
+                "lead_time": 9.433,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "216c0889-2257-4daf-a133-31138890876f",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269342994,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Best whey protein I've ever tried. Mixes perfectly, no clumps, and the vanilla flavor is not too sweet. My gym performance improved a lot.",
+            "category": "protein",
+            "review_id": "R004",
+            "product_name": "NovaVita Whey Protein"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626553Z",
+        "updated_at": "2026-05-31T01:31:58.025604Z",
+        "allow_skip": true,
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269342995,
+        "annotations": [
+            {
+                "id": 96719475,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "b5Hq403wRq",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:32:10.560203Z",
+                "updated_at": "2026-05-31T01:32:10.560214Z",
+                "draft_created_at": null,
+                "lead_time": 7.712,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "ac10438b-8fdc-4fa0-bb3c-db412d025a0c",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269342995,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The Marine Collagen sachets are worth every penny. My skin looks more hydrated and my nails stopped breaking. Love this product!",
+            "category": "beauty",
+            "review_id": "R005",
+            "product_name": "NovaVita Marine Collagen"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626588Z",
+        "updated_at": "2026-05-31T01:32:10.755032Z",
+        "allow_skip": true,
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269342996,
+        "annotations": [
+            {
+                "id": 96719480,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "wsGWpeXc08",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:32:41.263362Z",
+                "updated_at": "2026-05-31T01:32:41.263379Z",
+                "draft_created_at": null,
+                "lead_time": 26.255,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "9d2ab8c4-5d53-478c-b2d3-ebb4a73010d0",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269342996,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "NovaVita customer service is outstanding. They responded within 2 hours and solved my issue immediately. The probiotic itself is also very effective.",
+            "category": "probiotics",
+            "review_id": "R006",
+            "product_name": "NovaVita Probiotic"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626620Z",
+        "updated_at": "2026-05-31T01:32:41.462391Z",
+        "allow_skip": true,
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269342997,
+        "annotations": [
+            {
+                "id": 96719482,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "cSerpcVmx7",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:32:52.483009Z",
+                "updated_at": "2026-05-31T01:32:52.483019Z",
+                "draft_created_at": null,
+                "lead_time": 7.0,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "52cffa93-ee26-4c10-b7e5-f65215280cae",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269342997,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "I've tried many magnesium supplements but this one actually helps me sleep. I fall asleep faster and wake up feeling refreshed.",
+            "category": "vitamins",
+            "review_id": "R007",
+            "product_name": "NovaVita Magnesium B6"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626651Z",
+        "updated_at": "2026-05-31T01:32:52.662145Z",
+        "allow_skip": true,
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269342998,
+        "annotations": [
+            {
+                "id": 96719489,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "H41wmUBapV",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:34:39.961142Z",
+                "updated_at": "2026-05-31T01:34:39.961161Z",
+                "draft_created_at": null,
+                "lead_time": 102.945,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "4fad9129-55f3-46af-9326-bd15a47ac96a",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269342998,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The plant protein is incredibly smooth and doesn't have that chalky texture I hate. Chocolate flavor is delicious. Perfect for my vegan diet.",
+            "category": "protein",
+            "review_id": "R008",
+            "product_name": "NovaVita Plant Protein"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626684Z",
+        "updated_at": "2026-05-31T01:34:40.133680Z",
+        "allow_skip": true,
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269342999,
+        "annotations": [
+            {
+                "id": 96719494,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "rN00FmWSay",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:34:57.205142Z",
+                "updated_at": "2026-05-31T01:34:57.205154Z",
+                "draft_created_at": null,
+                "lead_time": 8.574,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "4c5e1474-7a60-47c7-a0d2-6f4d683dd9a5",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269342999,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Turmeric Curcumin with BioPerine is excellent. My joint pain reduced after 4 weeks of consistent use. My doctor was surprised by my progress.",
+            "category": "herbal",
+            "review_id": "R009",
+            "product_name": "NovaVita Turmeric"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626717Z",
+        "updated_at": "2026-05-31T01:34:57.401222Z",
+        "allow_skip": true,
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343000,
+        "annotations": [
+            {
+                "id": 96719495,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "s0CusOFphG",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:35:07.476327Z",
+                "updated_at": "2026-05-31T01:35:07.476341Z",
+                "draft_created_at": null,
+                "lead_time": 6.866,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "0a5d1e25-8c7a-4514-b719-b7403a949ee9",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343000,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Packaging is very premium and eco-friendly. The Biotin supplement is working — I can see new hair growth after 6 weeks. So happy!",
+            "category": "beauty",
+            "review_id": "R010",
+            "product_name": "NovaVita Biotin"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626749Z",
+        "updated_at": "2026-05-31T01:35:07.672657Z",
+        "allow_skip": true,
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343001,
+        "annotations": [
+            {
+                "id": 96719503,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "QNLwKF86ja",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:36:36.509254Z",
+                "updated_at": "2026-05-31T01:36:36.509265Z",
+                "draft_created_at": null,
+                "lead_time": 85.433,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "75829c67-4cbc-463b-9bc1-b91dc62d36a4",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343001,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Terrible experience. I ordered the fat burner 3 weeks ago and it still hasn't arrived. Customer service keeps giving me generic responses. Disgusting.",
+            "category": "weight",
+            "review_id": "R011",
+            "product_name": "NovaVita Fat Burner"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626781Z",
+        "updated_at": "2026-05-31T01:36:36.720342Z",
+        "allow_skip": true,
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343002,
+        "annotations": [
+            {
+                "id": 96719504,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "C4rJYy_ftX",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:36:48.000921Z",
+                "updated_at": "2026-05-31T01:36:48.000934Z",
+                "draft_created_at": null,
+                "lead_time": 6.531,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "845cbb4c-0706-4362-8fb6-889c1bb5c6c0",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343002,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The Vitamin C tablets taste absolutely horrible. Almost impossible to swallow without gagging. The coating must have failed or something went wrong.",
+            "category": "vitamins",
+            "review_id": "R012",
+            "product_name": "NovaVita Vitamin C"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626812Z",
+        "updated_at": "2026-05-31T01:36:48.168333Z",
+        "allow_skip": true,
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343003,
+        "annotations": [
+            {
+                "id": 96719507,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "jUuUcrdo7j",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:37:03.816508Z",
+                "updated_at": "2026-05-31T01:37:03.816519Z",
+                "draft_created_at": null,
+                "lead_time": 12.656,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "88e6e72f-d0b0-4a40-aa22-ce14b2bd793b",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343003,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "I had a severe allergic reaction to the Synbiotic Pro. My stomach was in extreme pain for 2 days. This product should come with stronger warnings.",
+            "category": "probiotics",
+            "review_id": "R013",
+            "product_name": "NovaVita Synbiotic Pro"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626844Z",
+        "updated_at": "2026-05-31T01:37:03.998659Z",
+        "allow_skip": true,
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343004,
+        "annotations": [
+            {
+                "id": 96719512,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "liYJjFCfoc",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:37:42.463440Z",
+                "updated_at": "2026-05-31T01:37:42.463449Z",
+                "draft_created_at": null,
+                "lead_time": 35.486,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "b956986a-15ce-4e65-8dbf-076e822fc9b3",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343004,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Complete waste of money. The Green Coffee Extract did absolutely nothing for my weight. I followed the instructions perfectly for 60 days. Zero results.",
+            "category": "weight",
+            "review_id": "R014",
+            "product_name": "NovaVita Green Coffee"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626876Z",
+        "updated_at": "2026-05-31T01:37:42.661648Z",
+        "allow_skip": true,
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343005,
+        "annotations": [
+            {
+                "id": 96719513,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "YWJ2YM3Mxk",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:37:50.111124Z",
+                "updated_at": "2026-05-31T01:37:50.111139Z",
+                "draft_created_at": null,
+                "lead_time": 3.899,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "61ee8987-d308-437b-b7bc-2aa244572663",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343005,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Product arrived damaged. The bottle was cracked and half the capsules were broken. The packaging is clearly insufficient for international shipping.",
+            "category": "protein",
+            "review_id": "R015",
+            "product_name": "NovaVita BCAA"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626907Z",
+        "updated_at": "2026-05-31T01:37:50.281624Z",
+        "allow_skip": true,
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343006,
+        "annotations": [
+            {
+                "id": 96719518,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "GwKAegtGva",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:38:39.805607Z",
+                "updated_at": "2026-05-31T01:38:39.805619Z",
+                "draft_created_at": null,
+                "lead_time": 46.44,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "a02bd8e8-2aa5-4fc6-a7bb-0db0abc3a14b",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343006,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The essential oil smells nothing like lavender. It smells chemical and artificial. Definitely not pure as advertised. Requesting a full refund.",
+            "category": "oils",
+            "review_id": "R016",
+            "product_name": "NovaVita Lavender Oil"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626951Z",
+        "updated_at": "2026-05-31T01:38:39.993342Z",
+        "allow_skip": true,
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343007,
+        "annotations": [
+            {
+                "id": 96719521,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "pyYIOYPTsx",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:38:51.999524Z",
+                "updated_at": "2026-05-31T01:38:51.999534Z",
+                "draft_created_at": null,
+                "lead_time": 8.24,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "c5c5cf13-a795-433c-846f-d7110c4dc801",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343007,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "I was charged twice for the same order and getting a refund has been a nightmare. It's been 3 weeks and still no resolution. Avoid this company.",
+            "category": "service",
+            "review_id": "R017",
+            "product_name": "NovaVita Order"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.626986Z",
+        "updated_at": "2026-05-31T01:38:52.173334Z",
+        "allow_skip": true,
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343008,
+        "annotations": [
+            {
+                "id": 96719523,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "Hdoi3zw7_o",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:39:03.781835Z",
+                "updated_at": "2026-05-31T01:39:03.781852Z",
+                "draft_created_at": null,
+                "lead_time": 7.418,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "6de234c3-1198-41f8-a0bd-cb75edaa5c8e",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343008,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The Creatine powder doesn't dissolve properly. It clumps at the bottom of my shaker no matter how much I mix. Very disappointing quality.",
+            "category": "protein",
+            "review_id": "R018",
+            "product_name": "NovaVita Creatine"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627018Z",
+        "updated_at": "2026-05-31T01:39:03.948948Z",
+        "allow_skip": true,
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343009,
+        "annotations": [
+            {
+                "id": 96719525,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "TId4nhvvUi",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:39:15.507529Z",
+                "updated_at": "2026-05-31T01:39:15.507541Z",
+                "draft_created_at": null,
+                "lead_time": 8.355,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "38caa059-792f-4bae-b12b-b57face17e74",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343009,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Received a product that expired 2 months ago! Completely unacceptable. This is a serious health and safety issue. I could have been seriously harmed.",
+            "category": "herbal",
+            "review_id": "R019",
+            "product_name": "NovaVita Valerian Root"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627049Z",
+        "updated_at": "2026-05-31T01:39:15.704474Z",
+        "allow_skip": true,
+        "inner_id": 19,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343010,
+        "annotations": [
+            {
+                "id": 96719528,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "z0qiVoJ8El",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:39:43.519325Z",
+                "updated_at": "2026-05-31T01:39:43.519337Z",
+                "draft_created_at": null,
+                "lead_time": 23.401,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "3e6aecaf-83ca-4b1c-932e-6c4ff584280d",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343010,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The subscription auto-renewed without warning and I was charged for products I didn't want. The cancellation process is deliberately complicated.",
+            "category": "service",
+            "review_id": "R020",
+            "product_name": "NovaVita Subscription"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627080Z",
+        "updated_at": "2026-05-31T01:39:43.701785Z",
+        "allow_skip": true,
+        "inner_id": 20,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343011,
+        "annotations": [
+            {
+                "id": 96719537,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "Dpu4DX977i",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:41:17.099724Z",
+                "updated_at": "2026-05-31T01:41:17.099741Z",
+                "draft_created_at": null,
+                "lead_time": 86.62,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "d397ba2a-eb6d-4523-9080-29df98a6d2d0",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343011,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The multivitamin is okay. Nothing spectacular but it does the job. Price is reasonable for the quality. Might try a different brand next time.",
+            "category": "vitamins",
+            "review_id": "R021",
+            "product_name": "NovaVita Multivitamin"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627110Z",
+        "updated_at": "2026-05-31T01:41:17.301046Z",
+        "allow_skip": true,
+        "inner_id": 21,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343012,
+        "annotations": [
+            {
+                "id": 96719538,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "jiFkaytcvi",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:41:30.659102Z",
+                "updated_at": "2026-05-31T01:41:30.659114Z",
+                "draft_created_at": null,
+                "lead_time": 9.13,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "64abdf98-5a20-4980-aca9-486e09abd165",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343012,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Delivery was on time. Product looks exactly as described. Haven't noticed any major changes yet but it's only been a week so will give it more time.",
+            "category": "vitamins",
+            "review_id": "R022",
+            "product_name": "NovaVita Omega-3"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627140Z",
+        "updated_at": "2026-05-31T01:41:30.826035Z",
+        "allow_skip": true,
+        "inner_id": 22,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343013,
+        "annotations": [
+            {
+                "id": 96719548,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "MArPP7-jMy",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:43:27.482313Z",
+                "updated_at": "2026-05-31T01:43:27.482324Z",
+                "draft_created_at": null,
+                "lead_time": 112.534,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "89d78f15-22c5-4a96-9486-5a8de61e088f",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343013,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The capsules are quite large and hard to swallow. The supplement itself seems fine but I wish they offered a smaller size option for people like me.",
+            "category": "vitamins",
+            "review_id": "R023",
+            "product_name": "NovaVita Vitamin D3"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627171Z",
+        "updated_at": "2026-05-31T01:43:27.650910Z",
+        "allow_skip": true,
+        "inner_id": 23,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343014,
+        "annotations": [
+            {
+                "id": 96719556,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "_Ygt_YA0b6",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:45:17.514605Z",
+                "updated_at": "2026-05-31T01:45:17.514619Z",
+                "draft_created_at": null,
+                "lead_time": 100.106,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "48ca7707-72db-48e5-b86b-44e9b878a3d2",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343014,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Average product. Does what it claims but nothing more. The packaging could be better. Customer service was helpful when I had a question.",
+            "category": "probiotics",
+            "review_id": "R024",
+            "product_name": "NovaVita Probiotic"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627202Z",
+        "updated_at": "2026-05-31T01:45:17.744278Z",
+        "allow_skip": true,
+        "inner_id": 24,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343015,
+        "annotations": [
+            {
+                "id": 96719558,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "NL0K5x_VQo",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:45:31.195952Z",
+                "updated_at": "2026-05-31T01:45:31.195965Z",
+                "draft_created_at": null,
+                "lead_time": 9.539,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "3ce1f0ea-1d65-403f-add3-cc466446a8fe",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343015,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "I've been using this for 2 weeks. No noticeable difference yet. Will continue for another month and update my review. Too early to judge.",
+            "category": "herbal",
+            "review_id": "R025",
+            "product_name": "NovaVita Ashwagandha"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627233Z",
+        "updated_at": "2026-05-31T01:45:31.397364Z",
+        "allow_skip": true,
+        "inner_id": 25,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343016,
+        "annotations": [
+            {
+                "id": 96719577,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "FsUJQJB-z9",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:48:11.611543Z",
+                "updated_at": "2026-05-31T01:48:11.611553Z",
+                "draft_created_at": null,
+                "lead_time": 154.239,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "fb94634b-0ba5-49bd-9b88-4e806158a113",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343016,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The taste is acceptable but not great. I've had better tasting protein powders. The nutrition profile is good though. Balanced product overall.",
+            "category": "protein",
+            "review_id": "R026",
+            "product_name": "NovaVita Whey Protein"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627263Z",
+        "updated_at": "2026-05-31T01:48:11.796557Z",
+        "allow_skip": true,
+        "inner_id": 26,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343017,
+        "annotations": [
+            {
+                "id": 96719584,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "s7Wde08q8q",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:49:36.118714Z",
+                "updated_at": "2026-05-31T01:49:36.118725Z",
+                "draft_created_at": null,
+                "lead_time": 79.757,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "a906bc92-5993-4859-9085-791a68ad42c3",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343017,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Shipping took longer than expected but the product arrived in good condition. The Biotin seems decent quality. Will see results in a few months.",
+            "category": "beauty",
+            "review_id": "R027",
+            "product_name": "NovaVita Biotin"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627294Z",
+        "updated_at": "2026-05-31T01:49:36.314598Z",
+        "allow_skip": true,
+        "inner_id": 27,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343018,
+        "annotations": [
+            {
+                "id": 96719587,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "uyRTjjzOWg",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:49:53.635918Z",
+                "updated_at": "2026-05-31T01:49:53.635929Z",
+                "draft_created_at": null,
+                "lead_time": 7.758,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "0986c96f-7a91-4190-bae3-f651926105dd",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343018,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "It's a standard supplement. Nothing special about it. The price is fair for what you get. I'll probably stick with my previous brand though.",
+            "category": "vitamins",
+            "review_id": "R028",
+            "product_name": "NovaVita Magnesium"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627325Z",
+        "updated_at": "2026-05-31T01:49:53.843237Z",
+        "allow_skip": true,
+        "inner_id": 28,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343019,
+        "annotations": [
+            {
+                "id": 96719591,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "SyN-rSO6oi",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:50:14.420504Z",
+                "updated_at": "2026-05-31T01:50:14.420515Z",
+                "draft_created_at": null,
+                "lead_time": 17.598,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "b92869b1-1f20-46b1-bba6-34bc8e60ce67",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343019,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The website is confusing to navigate and it took me a while to find what I wanted. Product itself is fine. Just improve the user experience please.",
+            "category": "service",
+            "review_id": "R029",
+            "product_name": "NovaVita Website"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627357Z",
+        "updated_at": "2026-05-31T01:50:14.625846Z",
+        "allow_skip": true,
+        "inner_id": 29,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343020,
+        "annotations": [
+            {
+                "id": 96719592,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "bqnbqkYXej",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:50:26.108023Z",
+                "updated_at": "2026-05-31T01:50:26.108033Z",
+                "draft_created_at": null,
+                "lead_time": 7.653,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "52c41fbd-5b50-40bb-a874-988d772b9914",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343020,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Not bad but not amazing either. The collagen powder dissolves okay. My skin hasn't changed dramatically but I know collagen takes time to work.",
+            "category": "beauty",
+            "review_id": "R030",
+            "product_name": "NovaVita Collagen"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627389Z",
+        "updated_at": "2026-05-31T01:50:26.294486Z",
+        "allow_skip": true,
+        "inner_id": 30,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343021,
+        "annotations": [
+            {
+                "id": 96719593,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "kRlEp4bLZH",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:50:36.858230Z",
+                "updated_at": "2026-05-31T01:50:36.858241Z",
+                "draft_created_at": null,
+                "lead_time": 7.288,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "0e00df14-dce2-4329-afc3-85f2ca8387a9",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343021,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Love the product quality but absolutely hate the price increase. The Omega-3 went up 30% in one month with no explanation. Loyal customers deserve better.",
+            "category": "vitamins",
+            "review_id": "R031",
+            "product_name": "NovaVita Omega-3"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627419Z",
+        "updated_at": "2026-05-31T01:50:37.068316Z",
+        "allow_skip": true,
+        "inner_id": 31,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343022,
+        "annotations": [
+            {
+                "id": 96719595,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "03B_aHVV8e",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:50:48.138169Z",
+                "updated_at": "2026-05-31T01:50:48.138179Z",
+                "draft_created_at": null,
+                "lead_time": 8.267,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "56dba214-8b58-444d-91f6-0c669fab625b",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343022,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The supplement works great for energy but the pills are way too big. I literally choke every time. Why not make smaller capsules? Please fix this!",
+            "category": "vitamins",
+            "review_id": "R032",
+            "product_name": "NovaVita Multivitamin"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627450Z",
+        "updated_at": "2026-05-31T01:50:48.329477Z",
+        "allow_skip": true,
+        "inner_id": 32,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343023,
+        "annotations": [
+            {
+                "id": 96719598,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "jDdwPacYU7",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:50:59.749019Z",
+                "updated_at": "2026-05-31T01:50:59.749029Z",
+                "draft_created_at": null,
+                "lead_time": 7.636,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "a16fc545-aedf-4338-b502-823299ea7793",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343023,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Fast shipping which I love! But the product packaging was misleading. The bottle looked bigger in photos. Felt deceived about the quantity.",
+            "category": "vitamins",
+            "review_id": "R033",
+            "product_name": "NovaVita Vitamin C"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627480Z",
+        "updated_at": "2026-05-31T01:50:59.943008Z",
+        "allow_skip": true,
+        "inner_id": 33,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343024,
+        "annotations": [
+            {
+                "id": 96719600,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "4o0CW4IAJi",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:51:10.198789Z",
+                "updated_at": "2026-05-31T01:51:10.198802Z",
+                "draft_created_at": null,
+                "lead_time": 7.358,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "63294c82-9a6a-4e80-9220-f25417cddf00",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343024,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The Ashwagandha genuinely helps with my anxiety. However the smell is really strong and unpleasant. I have to hold my breath when I open the bottle.",
+            "category": "herbal",
+            "review_id": "R034",
+            "product_name": "NovaVita Ashwagandha"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627511Z",
+        "updated_at": "2026-05-31T01:51:10.414832Z",
+        "allow_skip": true,
+        "inner_id": 34,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343025,
+        "annotations": [
+            {
+                "id": 96719603,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "KnX412lIRo",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:51:21.630458Z",
+                "updated_at": "2026-05-31T01:51:21.630468Z",
+                "draft_created_at": null,
+                "lead_time": 7.071,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "069df9bf-c94d-4576-b295-79f70a567308",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343025,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Great formula and it actually works for sleep. Disappointed that they changed the formula recently though. The new version is not as effective as before.",
+            "category": "herbal",
+            "review_id": "R035",
+            "product_name": "NovaVita Valerian"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627542Z",
+        "updated_at": "2026-05-31T01:51:21.834634Z",
+        "allow_skip": true,
+        "inner_id": 35,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343026,
+        "annotations": [
+            {
+                "id": 96719605,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "QyGUBn9VYU",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:51:33.335074Z",
+                "updated_at": "2026-05-31T01:51:33.335086Z",
+                "draft_created_at": null,
+                "lead_time": 8.62,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "d0b3a960-a2ff-4110-9b49-3b3f91e71220",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343026,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Customer service was very friendly and helpful. Unfortunately the product quality has declined since last year. I hope they go back to the old formula.",
+            "category": "herbal",
+            "review_id": "R036",
+            "product_name": "NovaVita Turmeric"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627731Z",
+        "updated_at": "2026-05-31T01:51:33.532663Z",
+        "allow_skip": true,
+        "inner_id": 36,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343027,
+        "annotations": [
+            {
+                "id": 96719608,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "4T0NDczS6Q",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:51:49.687348Z",
+                "updated_at": "2026-05-31T01:51:49.687360Z",
+                "draft_created_at": null,
+                "lead_time": 12.417,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "7d8121c9-767c-4a7a-956e-9f4fcc603fb9",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343027,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The subscription model saves money which I appreciate. But the delivery schedule is inconsistent. Sometimes early sometimes very late. Please improve logistics.",
+            "category": "service",
+            "review_id": "R037",
+            "product_name": "NovaVita Subscription"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627767Z",
+        "updated_at": "2026-05-31T01:51:49.903094Z",
+        "allow_skip": true,
+        "inner_id": 37,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343028,
+        "annotations": [
+            {
+                "id": 96719618,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "svQwvgVPTt",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:52:32.453082Z",
+                "updated_at": "2026-05-31T01:52:32.453094Z",
+                "draft_created_at": null,
+                "lead_time": 38.114,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "1de270b6-0ff5-4095-a581-a1757dfc38b3",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343028,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Protein quality is excellent and the results are real. But the price per serving is too high compared to competitors. Hard to justify continuing at this price.",
+            "category": "protein",
+            "review_id": "R038",
+            "product_name": "NovaVita Whey Protein"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627799Z",
+        "updated_at": "2026-05-31T01:52:32.660536Z",
+        "allow_skip": true,
+        "inner_id": 38,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343029,
+        "annotations": [
+            {
+                "id": 96719635,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "N1BK-UydF3",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:53:58.069943Z",
+                "updated_at": "2026-05-31T01:53:58.069952Z",
+                "draft_created_at": null,
+                "lead_time": 7.783,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "56782c85-284f-4100-83d8-c7b8f2b8b123",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343029,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "I love that NovaVita uses clean ingredients with no fillers. My only complaint is the limited flavor options for the protein. Please add more variety!",
+            "category": "protein",
+            "review_id": "R039",
+            "product_name": "NovaVita Plant Protein"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627830Z",
+        "updated_at": "2026-05-31T01:53:58.237627Z",
+        "allow_skip": true,
+        "inner_id": 39,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343030,
+        "annotations": [
+            {
+                "id": 96719637,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "hDVHQxM-Ue",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Mixed"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:54:07.657571Z",
+                "updated_at": "2026-05-31T01:54:07.657584Z",
+                "draft_created_at": null,
+                "lead_time": 6.66,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "99aa7dc8-a368-4b1c-8501-bc3c66752233",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343030,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The collagen definitely improved my skin texture after 2 months. But the sachets are hard to open and I often spill the powder. Redesign the packaging!",
+            "category": "beauty",
+            "review_id": "R040",
+            "product_name": "NovaVita Collagen"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627862Z",
+        "updated_at": "2026-05-31T01:54:07.843579Z",
+        "allow_skip": true,
+        "inner_id": 40,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343031,
+        "annotations": [
+            {
+                "id": 96719641,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "bag19kXJjw",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:54:31.428923Z",
+                "updated_at": "2026-05-31T01:54:31.428932Z",
+                "draft_created_at": null,
+                "lead_time": 20.895,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "ee9eb16f-53f1-42ea-8371-f5721512baaf",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343031,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Absolutely life-changing product. My doctor recommended NovaVita D3 after my blood test showed deficiency. Within 6 weeks my levels normalized completely.",
+            "category": "vitamins",
+            "review_id": "R041",
+            "product_name": "NovaVita Vitamin D3"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627893Z",
+        "updated_at": "2026-05-31T01:54:31.598453Z",
+        "allow_skip": true,
+        "inner_id": 41,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343032,
+        "annotations": [
+            {
+                "id": 96719643,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "eb3b0CRwUp",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:54:42.357577Z",
+                "updated_at": "2026-05-31T01:54:42.357589Z",
+                "draft_created_at": null,
+                "lead_time": 7.395,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "d92444d7-3469-4800-9c16-953e000996fb",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343032,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Do not buy this. The fat burner gave me heart palpitations and severe anxiety. I had to go to the emergency room. This product is dangerous!",
+            "category": "weight",
+            "review_id": "R042",
+            "product_name": "NovaVita Fat Burner"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627924Z",
+        "updated_at": "2026-05-31T01:54:42.539630Z",
+        "allow_skip": true,
+        "inner_id": 42,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343033,
+        "annotations": [
+            {
+                "id": 96719648,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "KJSO3_xTSh",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:55:00.342894Z",
+                "updated_at": "2026-05-31T01:55:00.342905Z",
+                "draft_created_at": null,
+                "lead_time": 14.876,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "493c20e2-d0b0-4241-861a-2c4c0848e62c",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343033,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Just received my order. Haven't tried it yet but the packaging looks professional and premium. The product information leaflet is very detailed and clear.",
+            "category": "probiotics",
+            "review_id": "R043",
+            "product_name": "NovaVita Probiotic"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627955Z",
+        "updated_at": "2026-05-31T01:55:00.551667Z",
+        "allow_skip": true,
+        "inner_id": 43,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343034,
+        "annotations": [
+            {
+                "id": 96719651,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "oqTQV8Uf5F",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:55:10.824385Z",
+                "updated_at": "2026-05-31T01:55:10.824397Z",
+                "draft_created_at": null,
+                "lead_time": 7.696,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "734b0c3c-7034-429c-95dd-154028de7c21",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343034,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The BCAA helped my muscle recovery tremendously. I train 5 days a week and the soreness reduced by at least 70%. Worth every cent for serious athletes.",
+            "category": "protein",
+            "review_id": "R044",
+            "product_name": "NovaVita BCAA"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.627986Z",
+        "updated_at": "2026-05-31T01:55:10.993809Z",
+        "allow_skip": true,
+        "inner_id": 44,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343035,
+        "annotations": [
+            {
+                "id": 96719655,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "VK040oxTrg",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Negative"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:55:20.131336Z",
+                "updated_at": "2026-05-31T01:55:20.131347Z",
+                "draft_created_at": null,
+                "lead_time": 3.482,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "76e5ff81-48f4-4a8a-8dea-80713b0ec5e5",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343035,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Shocking customer service. They ignored my complaint for 2 weeks. When they finally replied they offered a 10% discount instead of a proper refund. Ridiculous.",
+            "category": "service",
+            "review_id": "R045",
+            "product_name": "NovaVita Service"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.628017Z",
+        "updated_at": "2026-05-31T01:55:20.336755Z",
+        "allow_skip": true,
+        "inner_id": 45,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343036,
+        "annotations": [
+            {
+                "id": 96719660,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "55qnzQFTBl",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:55:33.819757Z",
+                "updated_at": "2026-05-31T01:55:33.819770Z",
+                "draft_created_at": null,
+                "lead_time": 10.263,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "a364fbf8-73d0-42f5-b450-67be56d58ae0",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343036,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Good product overall but I wish the information about allergens was clearer on the label. I have a nut allergy and had to contact support to confirm.",
+            "category": "vitamins",
+            "review_id": "R046",
+            "product_name": "NovaVita Omega-3"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.628047Z",
+        "updated_at": "2026-05-31T01:55:34.023906Z",
+        "allow_skip": true,
+        "inner_id": 46,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343037,
+        "annotations": [
+            {
+                "id": 96719663,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "6DRB9I6tak",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:55:44.450876Z",
+                "updated_at": "2026-05-31T01:55:44.450889Z",
+                "draft_created_at": null,
+                "lead_time": 7.569,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "dfeae662-efa2-46b1-aba0-de78413b815e",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343037,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The peppermint essential oil is pure and potent. A tiny drop goes a very long way. Great for headaches and focus. Definitely purchasing again soon.",
+            "category": "oils",
+            "review_id": "R047",
+            "product_name": "NovaVita Peppermint Oil"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.628078Z",
+        "updated_at": "2026-05-31T01:55:44.614322Z",
+        "allow_skip": true,
+        "inner_id": 47,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343038,
+        "annotations": [
+            {
+                "id": 96719666,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "P3jbTAqmz5",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Neutral"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:55:55.908597Z",
+                "updated_at": "2026-05-31T01:55:55.908610Z",
+                "draft_created_at": null,
+                "lead_time": 8.553,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "ca908db6-708a-40b0-9b03-0a6f47c8d0b4",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343038,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "Three stars because the product is okay but the loyalty program is completely broken. My points disappeared after I upgraded my account. Nobody will help me.",
+            "category": "service",
+            "review_id": "R048",
+            "product_name": "NovaVita Loyalty Program"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.628108Z",
+        "updated_at": "2026-05-31T01:55:56.092281Z",
+        "allow_skip": true,
+        "inner_id": 48,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343039,
+        "annotations": [
+            {
+                "id": 96719668,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "vxqIEizJP3",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:56:03.022650Z",
+                "updated_at": "2026-05-31T01:56:03.022663Z",
+                "draft_created_at": null,
+                "lead_time": 3.826,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "13477f89-b784-4238-b1e2-610f82a9aeb1",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343039,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "I've recommended NovaVita to my entire family. My parents take the Vitamin D3, my sister uses the collagen, and my husband loves the whey protein. We trust this brand.",
+            "category": "general",
+            "review_id": "R049",
+            "product_name": "NovaVita Brand"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.628139Z",
+        "updated_at": "2026-05-31T01:56:03.206150Z",
+        "allow_skip": true,
+        "inner_id": 49,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    },
+    {
+        "id": 269343040,
+        "annotations": [
+            {
+                "id": 96719670,
+                "completed_by": {
+                    "id": 177317,
+                    "email": "my.sdwpmsti@gmail.com",
+                    "first_name": "Sri Dewi",
+                    "last_name": "Paramesti"
+                },
+                "result": [
+                    {
+                        "id": "pzOlNaeECx",
+                        "type": "choices",
+                        "value": {
+                            "choices": [
+                                "Positive"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "text",
+                        "from_name": "sentiment"
+                    }
+                ],
+                "state": "CREATED",
+                "reviews": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2026-05-31T01:56:12.609411Z",
+                "updated_at": "2026-05-31T01:56:12.609424Z",
+                "draft_created_at": null,
+                "lead_time": 6.052,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "47d34450-6e86-4183-bb41-e8a87f1c378a",
+                "import_id": null,
+                "last_action": "submitted",
+                "bulk_created": false,
+                "task": 269343040,
+                "project": 262164,
+                "updated_by": 177317,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": 177317
+            }
+        ],
+        "file_upload": "f48344b1-novavita_reviews_to_annotate.csv",
+        "drafts": [],
+        "predictions": [],
+        "state": "NEEDS_REVIEW",
+        "agreement": 100.0,
+        "per_control_tag_agreements": {
+            "sentiment": 100.0
+        },
+        "data": {
+            "text": "The green coffee extract is mediocre at best. Combined with diet and exercise it helped a little but the claims on the packaging are highly exaggerated.",
+            "category": "weight",
+            "review_id": "R050",
+            "product_name": "NovaVita Green Coffee"
+        },
+        "meta": {},
+        "created_at": "2026-05-31T01:24:49.628170Z",
+        "updated_at": "2026-05-31T01:56:12.793205Z",
+        "allow_skip": true,
+        "inner_id": 50,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 262164,
+        "updated_by": 177317,
+        "comment_authors": []
+    }
+]
